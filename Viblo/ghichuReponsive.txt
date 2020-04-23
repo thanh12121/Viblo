@@ -1,0 +1,9 @@
+
+Responsive cho giao dien:
+
+
++ Chung ta dang style cho element nao?
+	+ margin
+	+ padding
+	+ border
+	+ vi tri
